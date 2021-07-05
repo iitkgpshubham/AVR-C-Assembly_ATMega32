@@ -1,4 +1,4 @@
-# ATMega32
+# AVR C/Assembly : ATMega32
 
 This repository contains mini-projects on *ATMega32* microcontroller, as a part of course assignment in  **AT30001**(*Fundamentals of Embedded Control and Software*) and **AT60001**(*Embedded Control Systems*), taken as a part of micro-specialisation in *Embedded Control, Software, Modelling and Design* .
 
